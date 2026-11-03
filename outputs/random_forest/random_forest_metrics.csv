@@ -1,0 +1,4 @@
+Model,Metric,Value
+Random Forest (tuned),MAE,7.690585763078851
+Random Forest (tuned),RMSE,9.104178266391992
+Random Forest (tuned),R2,-0.00029614837574087893

@@ -1,0 +1,4 @@
+Model,Metric,Value
+RF tuned (19 features),MAE,9.249300144599305
+RF tuned (19 features),RMSE,10.401849974216852
+RF tuned (19 features),R2,-0.3057747370541417
