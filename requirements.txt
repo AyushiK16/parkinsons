@@ -1,0 +1,14 @@
+# Reproduced with Python 3.12.4. Native libarchive is needed to unpack UCI301 RAR.
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+scikit-learn==1.4.2
+matplotlib==3.8.4
+seaborn==0.13.2
+joblib==1.4.2
+threadpoolctl==3.6.0
+librosa==0.11.0
+soundfile==0.13.1
+numba==0.59.1
+libarchive-c==2.9
+# Optional authenticated Kaggle CLI: pip install kaggle
