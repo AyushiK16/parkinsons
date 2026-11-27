@@ -1,0 +1,7 @@
+Model,Metric,Value
+Decision Tree,MAE,8.622886620329837
+Decision Tree,RMSE,10.255702801770866
+Decision Tree,R2,-0.2693399379688661
+Training-mean baseline,MAE,7.990715879083482
+Training-mean baseline,RMSE,9.466997342361209
+Training-mean baseline,R2,-0.08161225943107309
